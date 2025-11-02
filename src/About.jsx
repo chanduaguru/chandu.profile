@@ -20,17 +20,18 @@ export default function About() {
         <h2 className="text-3xl md:text-4xl font-bold mb-6 text-black">About Me</h2> 
         {/* Changed paragraph text color to a darker gray for better contrast */}
         <p className="text-gray-700 text-base md:text-lg leading-relaxed">
-          Hi, I’m Aguru Chandu — an AI Engineer and Web Developer crafting smart, scalable, and beautifully simple digital experiences. I love transforming data and ideas into meaningful products that make technology feel effortless.
-        </p>
+I’m Aguru Chandu, an AI Engineer and Web Developer from India who loves building intelligent, user-focused digital solutions.
+I enjoy blending creativity with logic to turn data and design into meaningful experiences.
+Passionate about learning, experimenting, and pushing technology to make smarter, simpler systems.        </p>
       </div>
 
       <div className="relative z-10 md:w-1/2"> {/* Added relative z-10 */}
         {/* Changed list item text color to a darker gray for better contrast */}
         <ul className="space-y-3 text-gray-700 text-sm md:text-base"> 
-          <li>• 1+ years in ML, NLP, and recommender systems</li>
-          <li>• Strong focus on ATS-optimized resume design</li>
-          <li>• Passionate about Ghibli-style visuals & creative tech</li>
-          <li>• Currently building a mobile-friendly story game</li>
+          <li>• Machine Learning & Deep Learning (XGBoost, CNNs, Reinforcement Learning)</li>
+          <li>• Full-Stack Web Development (Django, React, REST APIs)</li>
+          <li>• Data Analysis & Visualization (Python, Pandas, Matplotlib)</li>
+          <li>• UI Design & Deployment (Tailwind CSS, Vercel, GitHub)</li>
         </ul>
       </div>
     </section>
