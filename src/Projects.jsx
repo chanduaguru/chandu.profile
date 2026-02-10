@@ -40,6 +40,19 @@ export default function Projects() {
       ],
       link: "https://github.com/chanduaguru/Court-Data-Fetcher.git" // Replace with actual link
     },
+      {
+  id: 4,
+  title: "Restaurant Demo Website",
+  image: "/restaurant.png",
+  description: [
+    "A **modern responsive restaurant website** designed for real business usage.",
+    "**Purpose:** Showcase menu, ambience, and contact details for customer engagement.",
+    "**Tech Stack:** **HTML, CSS, JavaScript, React, Responsive Design.**",
+    "**Features:** Hero section, food menu display, contact section, and mobile-friendly layout.",
+    "**Goal:** Help **local restaurants build an online presence** quickly and affordably."
+  ],
+  link: "https://sri-sai-restaurant.vercel.app/"
+}
     // Add more projects here following the same structure
   ];
 
